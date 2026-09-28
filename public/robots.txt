@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://springfieldhydrojetting.prosapp.site/sitemap.xml
